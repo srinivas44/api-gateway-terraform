@@ -1,1 +1,5 @@
 
+bucket  = "my-terraform-state-bucket"
+key     = "dev/api-gateway/terraform.tfstate"
+region  = "eu-west-2"
+encrypt = true
