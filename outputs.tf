@@ -6,3 +6,4 @@ output "api_gateway_id" {
 ##Added new line
 
 ###Added new line3
+## Aded new line again from Remote
