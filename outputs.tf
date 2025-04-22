@@ -7,3 +7,4 @@ output "api_gateway_id" {
 
 ###Added new line3
 ## Aded new line again from Remote
+## Added this line after I raise PR (but not merged yet), wants to see can I add few more COMMITs to the same PR (as it's not merged yet)
